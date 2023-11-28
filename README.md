@@ -5,6 +5,7 @@
 
 
 
+
 I developed a Python automation project to retrieve and display key information about Linux and Windows operating systems. Utilized various Python modules, bash scripting, and Windows commands to enhance understanding of OS functionalities and file systems. 
 
 Python modules used are platform, socket, os, subprocess, psutil, time and shuitl
